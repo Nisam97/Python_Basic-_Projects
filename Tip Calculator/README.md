@@ -16,7 +16,7 @@ Make sure you have Python installed on your system.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Nisam97/Python_Basic-_Projects/blob/main/Tip%20Calculator/solution.py
+   git clone https://github.com/Nisam97/Python_Basic-_Projects.gi
 
 2. Run the script:
    ```bash
