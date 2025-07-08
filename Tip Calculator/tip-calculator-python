@@ -1,0 +1,11 @@
+# 💰 Tip Calculator in Python
+
+This is a simple command-line **Tip Calculator** written in Python.  
+It allows users to easily calculate how much each person should pay when splitting a bill, including a tip.
+
+## 🧾 Features
+
+- Takes the total bill amount as input
+- Asks the user for desired tip percentage (e.g., 10%, 12%, or 15%)
+- Accepts the number of people splitting the bill
+- Calculates and displays how much each person should pay
