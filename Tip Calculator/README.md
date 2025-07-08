@@ -16,7 +16,20 @@ Make sure you have Python installed on your system.
 
 1. Clone this repository:
    ```bash
-   git clone
+   git clone https://github.com/Nisam97/Python_Basic-_Projects/blob/main/Tip%20Calculator/solution.py
+
+2. Run the script:
+   ```bash
+   python solution.py
+   
+3. Follow the on-screen prompts:
+   ```bash
+   Welcome to the tip calculator!
+   What was the total bill? $100
+   What percentage tip would you like to give? 10 12 15 15
+   How many people to split the bill? 5
+   Each person should pay: $23.0
+
 
 ## 🛠️ Technologies Used
 Python 3
